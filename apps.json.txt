@@ -1,0 +1,22 @@
+{
+    "name": "Vũ Văn Khơi",
+    "identifier": "khoindvn.io.vn",
+    "sourceURL": "https://khoindvn.github.io/apps.json",
+    "apps": [
+        {
+            "name": "ESign",
+            "bundleIdentifier": "com.esign.khoindvn",
+            "developerName": "khoindvn",
+            "version": "1.0",
+            "versionDate": "2026-06-28T21:40:00+08:00",
+            "versionDescription": "website khoindvn.io.vn",
+            "downloadURL": "https://khoindvn.github.io/ESign.ipa",
+            "localizedDescription": "website khoindvn.io.vn",
+            "iconURL": "https://khoindvn.io.vn/img/pf/profile-pic.png(",
+            "tintColor": "16303252",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        }
+    ]
+}
