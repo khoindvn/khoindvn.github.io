@@ -11,19 +11,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://dl.ipas.cc/ipas/o9y5wa.ipa</string>
+            <string>https://dl.ipas.cc/ipas/nyxidl.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>display-image</string>
             <key>url</key>
-            <string>https://dl.ipas.cc/icons/o9y5wa-1785043589737.png</string>
+            <string>https://dl.ipas.cc/icons/nyxidl-1785900403149.png</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>full-size-image</string>
             <key>url</key>
-            <string>https://dl.ipas.cc/icons/o9y5wa-1785043589737.png</string>
+            <string>https://dl.ipas.cc/icons/nyxidl-1785900403149.png</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -31,7 +31,7 @@
           <key>bundle-identifier</key>
           <string>com.garena.game.kgvn1</string>
           <key>bundle-version</key>
-          <string>1.63.11692297</string>
+          <string>1.63.11716331</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
