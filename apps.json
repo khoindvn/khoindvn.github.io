@@ -5,17 +5,32 @@
     "apps": [
         {
             "name": "ESign",
-            "bundleIdentifier": "com.esign.khoindvn",
+            "bundleIdentifier": "cn.swing.esign",
             "developerName": "khoindvn",
             "version": "1.0",
-            "versionDate": "2026-06-28T21:40:00+08:00",
-            "versionDescription": "website khoindvn.io.vn",
-            "downloadURL": "https://khoindvn.github.io/ESign.ipa",
-            "localizedDescription": "website khoindvn.io.vn",
+            "versionDate": "2026-09-26T11:18:04+07:00",
+            "versionDescription": "Cập nhật ESign - Website khoindvn.io.vn",
+            "downloadURL": "https://github.com/khoindvn/khoindvn.github.io/releases/download/ipa/ESign.ipa",
+            "localizedDescription": "Ứng dụng ký và cài đặt IPA trực tiếp trên iOS - khoindvn.io.vn",
             "iconURL": "https://khoindvn.io.vn/img/pf/profile-pic.png",
             "tintColor": "16303252",
             "isLanZouCloud": 0,
-            "size": 16302614,
+            "size": 16121033,
+            "type": 1
+        },
+        {
+            "name": "KSign",
+            "bundleIdentifier": "com.worksin.one",
+            "developerName": "khoindvn",
+            "version": "1.5.1",
+            "versionDate": "2026-09-26T11:18:01+07:00",
+            "versionDescription": "Cập nhật KSign - Chứng chỉ Jiangsu Simcere Pharmaceutical",
+            "downloadURL": "https://github.com/khoindvn/khoindvn.github.io/releases/download/ipa/KSign.ipa",
+            "localizedDescription": "Ứng dụng ký KSign hỗ trợ chứng chỉ doanh nghiệp - khoindvn.io.vn",
+            "iconURL": "https://khoindvn.io.vn/img/pf/profile-pic.png",
+            "tintColor": "16303252",
+            "isLanZouCloud": 0,
+            "size": 16541057,
             "type": 1
         }
     ]
