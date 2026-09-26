@@ -1,7 +1,8 @@
 {
     "name": "Vũ Văn Khơi",
     "identifier": "khoindvn.io.vn",
-    "sourceURL": "https://khoindvn.github.io/apps.json",
+    "sourceURL": "https://     khoindvn.github.io/apps.json",
+     "iconURL": "https://khoindvn.io.vn/img/pf/profile-pic.png"
     "apps": [
         {
             "name": "ESign",
