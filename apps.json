@@ -1,8 +1,8 @@
 {
     "name": "Vũ Văn Khơi",
     "identifier": "khoindvn.io.vn",
-    "sourceURL": "https://     khoindvn.github.io/apps.json",
-     "iconURL": "https://khoindvn.io.vn/img/pf/profile-pic.png"
+    "sourceURL": "https://khoindvn.github.io/apps.json",
+    "iconURL": "https://khoindvn.io.vn/img/pf/profile-pic.png",
     "apps": [
         {
             "name": "ESign",
@@ -10,9 +10,9 @@
             "developerName": "khoindvn",
             "version": "1.0",
             "versionDate": "2026-09-26T11:18:04+07:00",
-            "versionDescription":"ESign - Website https://khoindvn.io.vn",
+            "versionDescription": "ESign - Website https://khoindvn.io.vn",
             "downloadURL": "https://github.com/khoindvn/khoindvn.github.io/releases/download/ipa/ESign.ipa",
-            "localizedDescription":"https://khoindvn.io.vn",
+            "localizedDescription": "Website https://khoindvn.io.vn",
             "iconURL": "https://khoindvn.io.vn/img/pf/profile-pic.png",
             "tintColor": "16303252",
             "isLanZouCloud": 0,
@@ -27,7 +27,7 @@
             "versionDate": "2026-09-26T11:18:01+07:00",
             "versionDescription": "KSign - Website https://khoindvn.io.vn",
             "downloadURL": "https://github.com/khoindvn/khoindvn.github.io/releases/download/ipa/KSign.ipa",
-            "localizedDescription":"https://khoindvn.io.vn",
+            "localizedDescription": "Website https://khoindvn.io.vn",
             "iconURL": "https://khoindvn.io.vn/img/pf/profile-pic.png",
             "tintColor": "16303252",
             "isLanZouCloud": 0,
